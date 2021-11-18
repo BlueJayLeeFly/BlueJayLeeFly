@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlueJayLeeFly
+- 👋 Hi, I’m Jay (Seungjae) Lee @BlueJayLeeFly
 - 👀 I’m interested in Front End Developing
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me lsj2767@hotmail.com
