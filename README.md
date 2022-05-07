@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Jay (Seungjae) Lee @BlueJayLeeFly
-- 👀 I’m interested in Front End Developing
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me lsj2767@hotmail.com
+## Hello World. I'm Jay
+
+# (Food Developer, Event) => React Developer
+
+From Food Developer to React Developer...Drastic Changes to Do What I Love to Do
+
+Visit My [Website](https://jaylee.io/) to find out who I am and what I'm doing.
 
 <!---
 BlueJayLeeFly/BlueJayLeeFly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
