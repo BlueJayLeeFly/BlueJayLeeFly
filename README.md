@@ -1,4 +1,4 @@
-## Hello World. I'm Jay
+## Hello World. I'm Jay :desktop_computer:
 
 # (Food Developer, Event) => React Developer
 
