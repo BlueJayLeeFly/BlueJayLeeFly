@@ -1,6 +1,6 @@
 ## Hello World. I'm Jay :desktop_computer:
 
-# (Food Developer, Event) => React Developer
+# (Food Developer, Event) => Software Developer
 
 From Food Developer to React Developer...Drastic Changes to Do What I Love to Do
 
