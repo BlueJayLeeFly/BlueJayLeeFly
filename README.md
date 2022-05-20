@@ -2,7 +2,7 @@
 
 # (Food Developer, Event) => Software Developer
 
-From Food Developer to React Developer...Drastic Changes to Do What I Love to Do
+From Food Developer to Software Developer...Drastic Changes to Do What I Love to Do
 
 Visit My [Website](https://jaylee.io/) to find out who I am and what I'm doing.
 
